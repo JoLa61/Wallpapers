@@ -1,5 +1,9 @@
 # Wallpapers
-A collection of my original images, creatively transformed with AI into unique wallpapers.
+A personal collection of 1920×1080 desktop wallpapers based on my own photography and astrophotography.
+
+The collection includes nature and landscape photography, deep-sky astrophotography, and Impossible Worlds — imaginary landscapes created by combining and transforming my own photographs with AI.
+
+Created primarily as wallpapers for Linux desktops, including Hyprland and ML4W.
 ## License
 
 The wallpapers in this repository are based on my own images and have been creatively transformed and enhanced using AI.
